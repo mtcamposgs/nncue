@@ -12,7 +12,7 @@ Since the introduction of NNUE in 2018, computer chess has relied on shallow ReL
 
 Benchmarks show that NNCUE achieves **lower validation loss** (better understanding) and **competitive inference speed** compared to standard NNUE.
 
-📄 **[Read the Full Paper (PDF)](./NNCUE_Paper.pdf)**
+📄 **[Read the Full Paper (PDF)](./nncue_en.pdf)**
 
 ---
 
